@@ -4,3 +4,5 @@ results/
 .Rhistory
 .RData
 *.Rproj
+graphs/
+pants/
